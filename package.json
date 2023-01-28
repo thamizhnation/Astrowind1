@@ -47,8 +47,3 @@
     "node": ">=16.12.0"
   }
 }
-{
-  "scripts": {
-      "dev": "vite --host"
-  }
-}
