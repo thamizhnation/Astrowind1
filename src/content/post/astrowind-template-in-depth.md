@@ -13,13 +13,7 @@ Easy to start.
 
 Have fun!
 
-![Thiruvalluvar.png](My%201st%20post%203f2e7bdb68c14c9db4e5a267ec1c262b/Thiruvalluvar.png)
 
-[https://youtu.be/-szS_LXp9LM](https://youtu.be/-szS_LXp9LM)
-
-/
-
-[தமிழ்த்தேசியம் கோட்பாடுகள் ](https://www.notion.so/2efdbbf369cd46d29bac8a4755092348)
 
 # தமிழ்த்தேசியம் கோட்பாடுகள்
 
